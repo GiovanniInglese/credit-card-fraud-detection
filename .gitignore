@@ -1,0 +1,16 @@
+# Ignore data files
+*.csv
+*.xlsx
+
+# Ignore model binaries
+*.pkl
+*.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+venv/
